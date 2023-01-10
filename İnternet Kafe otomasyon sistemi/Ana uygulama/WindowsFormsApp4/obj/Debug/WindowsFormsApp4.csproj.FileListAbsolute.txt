@@ -1,0 +1,86 @@
+C:\Users\UğurPc\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\UğurPc\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\UğurPc\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\UğurPc\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\UğurPc\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\UğurPc\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form2.resources
+C:\Users\UğurPc\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\UğurPc\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\UğurPc\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\UğurPc\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+D:\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+D:\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+D:\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form2.resources
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form3.resources
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form4.resources
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form5.resources
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form6.resources
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+D:\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form2.resources
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form4.resources
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form6.resources
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form2.resources
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form4.resources
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form6.resources
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\UğurPc\Desktop\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Yasin\Desktop\Yeni klasör\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Yasin\Desktop\Yeni klasör\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Yasin\Desktop\Yeni klasör\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Yasin\Desktop\Yeni klasör\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\Yasin\Desktop\Yeni klasör\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Yasin\Desktop\Yeni klasör\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form2.resources
+C:\Users\Yasin\Desktop\Yeni klasör\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form4.resources
+C:\Users\Yasin\Desktop\Yeni klasör\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form6.resources
+C:\Users\Yasin\Desktop\Yeni klasör\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Yasin\Desktop\Yeni klasör\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Yasin\Desktop\Yeni klasör\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\Yeni klasör\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Yasin\Desktop\Yeni klasör\C# PROJE\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\UğurPc\Desktop\Yeni klasör\Internet Kafe Otomasyon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\UğurPc\Desktop\Yeni klasör\Internet Kafe Otomasyon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\UğurPc\Desktop\Yeni klasör\Internet Kafe Otomasyon\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\UğurPc\Desktop\Yeni klasör\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\UğurPc\Desktop\Yeni klasör\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\UğurPc\Desktop\Yeni klasör\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\UğurPc\Desktop\Yeni klasör\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\UğurPc\Desktop\Yeni klasör\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\UğurPc\Desktop\Yeni klasör\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Giris.resources
+C:\Users\UğurPc\Desktop\Yeni klasör\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Arayuz.resources
+C:\Users\UğurPc\Desktop\Yeni klasör\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Kullaniciadisifredegistirme.resources
+C:\Users\UğurPc\Desktop\Yeni klasör\Internet Kafe Otomasyon\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Hasilatbilgileri.resources
+C:\Users\UğurPc\Desktop\Yeni klasör\Açıklama satırlı\Ana uygulama\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\UğurPc\Desktop\Yeni klasör\Açıklama satırlı\Ana uygulama\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\UğurPc\Desktop\Yeni klasör\Açıklama satırlı\Ana uygulama\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\UğurPc\Desktop\Yeni klasör\Açıklama satırlı\Ana uygulama\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\UğurPc\Desktop\Yeni klasör\Açıklama satırlı\Ana uygulama\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Giris.resources
+C:\Users\UğurPc\Desktop\Yeni klasör\Açıklama satırlı\Ana uygulama\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Arayuz.resources
+C:\Users\UğurPc\Desktop\Yeni klasör\Açıklama satırlı\Ana uygulama\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Kullaniciadisifredegistirme.resources
+C:\Users\UğurPc\Desktop\Yeni klasör\Açıklama satırlı\Ana uygulama\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Hasilatbilgileri.resources
+C:\Users\UğurPc\Desktop\Yeni klasör\Açıklama satırlı\Ana uygulama\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\UğurPc\Desktop\Yeni klasör\Açıklama satırlı\Ana uygulama\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\UğurPc\Desktop\Yeni klasör\Açıklama satırlı\Ana uygulama\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\UğurPc\Desktop\Yeni klasör\Açıklama satırlı\Ana uygulama\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
